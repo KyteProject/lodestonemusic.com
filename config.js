@@ -13,8 +13,8 @@
 	}
 
 	var subscribe = {
-			apiKey: '01b5685a5d10a4d6ee5bb5bf688f172c-us18',
+			apiKey: '20934790285-fake-340975243',
 			listID: 'aee8b598f0',
 			successMsg: 'See you soon!',
-			emailTo: 'dan@lodestonemusic.com',
+			emailTo: 'dan@fake.com',
 	}
